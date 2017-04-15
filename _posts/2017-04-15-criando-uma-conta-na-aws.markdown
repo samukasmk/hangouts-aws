@@ -19,7 +19,7 @@ print_hi('Tom')
 {% endhighlight %}
 
 
-![My helpful screenshot]({{ site.url }}/hangouts-aws/images/new-account/new-account-1.png)
+![My helpful screenshot]({{ site.url }}/images/new-account/new-account-1.png)
 
 
 
