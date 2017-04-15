@@ -5,25 +5,26 @@ date:   2017-04-15 15:00:00
 categories: main
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+![1]({{ site.url }}/images/new-account/new-account-1.png)
 
-Jekyll also offers powerful support for code snippets:
+![1]({{ site.url }}/images/new-account/new-account-2.png)
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+![1]({{ site.url }}/images/new-account/new-account-3.png)
 
+![1]({{ site.url }}/images/new-account/new-account-4.png)
 
-![My helpful screenshot]({{ site.url }}/images/new-account/new-account-1.png)
+![1]({{ site.url }}/images/new-account/new-account-5.png)
 
+![1]({{ site.url }}/images/new-account/new-account-6.png)
 
+![1]({{ site.url }}/images/new-account/new-account-7.png)
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
+![1]({{ site.url }}/images/new-account/new-account-8.png)
 
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com
+![1]({{ site.url }}/images/new-account/new-account-9.png)
+
+![1]({{ site.url }}/images/new-account/new-account-10.png)
+
+![1]({{ site.url }}/images/new-account/new-account-11.png)
+
+![1]({{ site.url }}/images/new-account/new-account-12.png)
