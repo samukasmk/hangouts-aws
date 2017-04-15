@@ -22,6 +22,8 @@ Um pouco de história
 # Precificação:
 - [https://aws.amazon.com/pt/pricing/](https://aws.amazon.com/pt/pricing/)
 - [https://aws.amazon.com/pt/ec2/pricing/on-demand/](https://aws.amazon.com/pt/ec2/pricing/on-demand/)
+- [https://aws.amazon.com/pt/free/](https://aws.amazon.com/pt/free/)
+- [https://calculator.s3.amazonaws.com/index.html](https://calculator.s3.amazonaws.com/index.html)
 
 # Criando uma conta:
 [https://aws.amazon.com/pt/start-now/](https://aws.amazon.com/pt/start-now/)
