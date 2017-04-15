@@ -1,0 +1,54 @@
+---
+layout: default
+title:  "Tópicos do hangout"
+date:   2017-04-15 15:00:00
+categories: main
+---
+
+# Roteiro do Hangout: Amazon Web Services
+
+- O que é a Amazon AWS
+
+- Como surgio o Amazon Web Services
+
+- Overview dos inumeros serviços serviços
+https://aws.amazon.com/pt/
+
+- Regiões:
+http://docs.aws.amazon.com/pt_br/gettingstarted/latest/awsgsg-intro/gsg-aws-what-services-first.html
+https://aws.amazon.com/pt/about-aws/global-infrastructure/regional-product-services/
+https://aws.amazon.com/pt/about-aws/global-infrastructure/
+
+- Precificação:
+https://aws.amazon.com/pt/pricing/
+https://aws.amazon.com/pt/ec2/pricing/on-demand/
+
+- Criando uma conta:
+https://aws.amazon.com/pt/start-now/
+
+- Login
+
+- Como se orientar no dashboard
+
+- IAM (Identity and Access Management)
+https://aws.amazon.com/pt/iam/
+
+- S3 (Storage de arquivos como objetos)
+https://aws.amazon.com/pt/s3/
+
+- Route53 (Serviço de DNS)
+https://aws.amazon.com/pt/route53/
+
+- VPC (Segregação de rede privada)
+https://aws.amazon.com/pt/vpc/
+
+- EC2 (Computação em nuvem)
+https://aws.amazon.com/pt/ec2
+
+- RDS (Serviço de banco de dados)
+https://aws.amazon.com/pt/ec2/
+
+- qWikiLabs:
+https://aws.amazon.com/pt/training/intro-to-aws-labs-sm/
+
+- Perguntas
